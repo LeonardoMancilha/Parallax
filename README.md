@@ -1,2 +1,2 @@
 # Parallax
- Parallax made in HTML e CSS
+ Parallax made in HTML and CSS
