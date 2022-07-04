@@ -50,7 +50,7 @@ https://user-images.githubusercontent.com/74615811/176956195-d92b317b-b632-4b04-
 
 ## 📁 Acesso ao projeto / Access the project
 
-Portuguese: Você pode acessar os arquivos do projeto clicando [here](https://github.com/LeonardoMancilha/Parallax/find/main). <br>
+Portuguese: Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/LeonardoMancilha/Parallax/find/main). <br>
 English: You can access the project files by clicking [here](https://github.com/LeonardoMancilha/Parallax/find/main).
 
 ## 📝 Licença / License
